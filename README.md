@@ -18,6 +18,19 @@ Currently working as a Frontend Engineer at <b>ElementPay</b>, based in Mombasa,
 ###  What I work with
 
 `React` · `Next.js` · `TypeScript` · `JavaScript` · `Tailwind CSS` · `REST APIs` · `PHP` · `MySQL`
+## Case studies
+
+Most of my recent work lives in private company, client and product repositories. Each project below has a case study repository describing the problem, the solution, what I contributed and the outcome.
+
+| Project | What it is | Case study |
+|---|---|---|
+| **ElementPay** | Payments, wallets and admin dashboards | [Read](https://github.com/MWANGIANITAWAMBUI/elementpay-case-study) |
+| **Songa and iSafari** | Android release work for two React Native apps | [Read](https://github.com/MWANGIANITAWAMBUI/google-play-release-case-study) |
+| **Corevoo Consultancy** | Business website for a consultancy | [Read](https://github.com/MWANGIANITAWAMBUI/corevoo-consultancy-case-study) |
+| **Daltoma Capital AM** | White-label investor platform | [Read](https://github.com/MWANGIANITAWAMBUI/daltoma-capital-case-study) |
+| **Nails by Annie** | Booking and finance app for a nail business | [Read](https://github.com/MWANGIANITAWAMBUI/nails-by-annie-case-study) |
+| **Bahari Maritime Academy** | Learning platform for maritime officers (in development) | [Read](https://github.com/MWANGIANITAWAMBUI/bahari-maritime-academy-case-study) |
+| **Inakaso** | AI-assisted second-hand fashion marketplace | [Read](https://github.com/MWANGIANITAWAMBUI/inakaso-case-study) |
 
 ###  Featured work
 
